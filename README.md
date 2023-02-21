@@ -9,7 +9,7 @@ Overall, this project aims to streamline the resume generation process, minimizi
 
 ##   Procedure:
 1. Train ChatGPT as a LaTeX editor to create a personalized resume template.
-prompt: I want you to be a LaTex editor, reply everything in the following in the latex form
+"prompt: I want you to be a LaTex editor, reply everything in the following in the latex form"
 
 2. Ask ChatGPT to generate a sample resume template that meets the basic criteria and design preferences of the user. Although the generated template may not be perfect, it should provide a solid foundation to work with.
 *prompt: show me a resume template in Latex*
